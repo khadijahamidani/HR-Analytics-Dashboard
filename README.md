@@ -4,6 +4,9 @@ Interactive HR Analytics Dashboard built in Power BI using Power Query and DAX. 
 
 An interactive **HR Analytics Dashboard built using Microsoft Power BI** to analyze employee attrition, workforce demographics, salary distribution, job satisfaction, experience, and department-wise employee trends.
 
+<img width="1650" height="1275" alt="hr_page-0001" src="https://github.com/user-attachments/assets/223f072b-4baa-46c6-b566-8dd8a1c82987" />
+
+
 This project demonstrates the complete data analytics workflow — from **data cleaning and transformation using Power Query** to **DAX calculations, data visualization, dashboard design, and interactive filtering**.
 
 ---
